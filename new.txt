@@ -1,27 +1,19 @@
 shuffle the dataset and try to see the data 
-see the data between to two peaks 
-study the part of the data in residual and study distribuution between that only
-
-Extra 
-Spectral Analysis
-
-Bhavya 
-
-Transformations
-Residual 
 
 
+video 
 
+stationarity check 
+transformation
+removing trends and Seasonality
 
-Naman
-
-Seasonality
-EDA
-Trend 
+forecasting
+ARIMA
+AR
+MA
 
 
 
+100 106 114 P
 
-Vedant
-
-Forecasting
+119 100 RR 
